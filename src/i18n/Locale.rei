@@ -1,0 +1,2 @@
+
+let translate: (string) => string;
